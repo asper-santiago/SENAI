@@ -1,13 +1,20 @@
-#first{
+.first{
     background-color: red;
-    text-align: center; 
-    margin: 20px 15px 10px 100px; 
+    width: 200px;
+    height: 200px;
 }
-#second{
-    text-align: center;
-    margin: 20px 15px 10px 65px; 
+.second{
+    background-color: rgb(255, 238, 0);
+    width: 200px;
+    height: 200px;
+
 }
-#third{
+.third{
+    background-color: rgb(22, 131, 0);
+    width: 200px;
+    height: 200px;
+}
+h1{
     text-align: center;
-    margin: 20px 15px 10px 105px; 
+    line-height: 200px;
 }
