@@ -1,0 +1,1 @@
+console.log("eu sou muito legal, é só vc ser legal comigo tmb")
